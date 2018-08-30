@@ -1,0 +1,11 @@
+.form-checklist{font-size: 20px;}
+.form-checklist input[type=checkbox], input[type=radio]{width:17px; height: 17px;}
+.form-checklist input[type=number], input[type=text]{height:45px;}
+.form-checklist hr{margin-top: 10px;}
+.form-checklist label{width: 100%;}
+.checklist-page button{width: 100%;}
+.checklist-page .spacer{height: 100px;}
+.checklist-page #rusted-radio{display: none;}
+.checklist-page a{text-decoration: none; }
+#confirmar-encerramento{display: none;}
+button {height:50px;}
